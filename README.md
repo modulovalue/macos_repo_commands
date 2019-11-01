@@ -17,7 +17,7 @@ Updated: 2019-10-01 16:01
 ```
 
 ### .gitignore
-- [Flutter & Dart gitignore](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwi9u6vTlcnlAhXMGewKHVfBBE0QFjAAegQIHRAB&url=https%3A%2F%2Fgithub.com%2Fflutter%2Fflutter%2Fblob%2Fmaster%2F.gitignore&usg=AOvVaw0FYLrxHPb6Enk_W3j2NjNG)
+- [Flutter](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwi9u6vTlcnlAhXMGewKHVfBBE0QFjAAegQIHRAB&url=https%3A%2F%2Fgithub.com%2Fflutter%2Fflutter%2Fblob%2Fmaster%2F.gitignore&usg=AOvVaw0FYLrxHPb6Enk_W3j2NjNG) & [Dart](https://github.com/github/gitignore/blob/master/Dart.gitignore) .gitignore
 
 ### github.command
 - opens your GitHub repo with the parent directories name as the repository name. (Please edit the file to use your GitHub username)
