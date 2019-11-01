@@ -10,8 +10,10 @@ Various files ready to be pasted into new repositories.
 ### IntelliJ File Nesting
 
 [How To](https://medium.com/@modulovalue/clean-up-your-dart-flutter-projects-with-this-one-awesome-intellij-feature-fba96bcd85ad)
+
+Updated: 2019-10-01 16:01
 ```
-.env.json; .flutter-plugins; .gitignore; .iml; .json; .metadata; .packages; .travis.yml; CHANGELOG.md; LICENSE; README.md; analysis_options.yaml; mono_pkg.yaml; pubspec.lock
+.dart_tool; .env.json; .flutter-plugins; .gitignore; .iml; .json; .metadata; .packages; .travis.yml; CHANGELOG.md; LICENSE; README.md; analysis_options.yaml; mono_pkg.yaml; pubspec.lock; intellij.command; gitkraken.command; github.command
 ```
 
 ### .gitignore
